@@ -1,7 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap');
+
+body {
+  font-family: 'Titillium Web', sans-serif;
+}
+
 .bot-panel {
     margin-top: 100px;
     background-color: #263238;
     padding: 1em;
     color: #f7f7f7;
     border-radius: 5px;
-  }
+}
+
+p, span {
+  font-family: 'Titillium Web', sans-serif;
+}
+
+.project:hover {
+  border: 3px solid #263238;
+  
+}
