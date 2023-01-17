@@ -20,3 +20,7 @@ p, span {
   border: 3px solid #263238;
   
 }
+
+img {
+  border-radius: 5px;
+}
